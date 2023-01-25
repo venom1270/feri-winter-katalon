@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_386 (2) 22 07 385</name>
+   <tag></tag>
+   <elementGuidId>59f8a89a-d82f-4fd5-8c5b-f840bd84c0ad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='kontakti']/tbody/tr/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>6f4de5a7-a5a3-463b-891d-3d2d581402a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+386 (2) 22 07 385</value>
+      <webElementGuid>3c1a0bca-7f72-4c01-bf12-71a3f542bc4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kontakti&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[3]</value>
+      <webElementGuid>2b617225-891b-4b67-8776-a7a151051d0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='kontakti']/tbody/tr/td[3]</value>
+      <webElementGuid>a8d2713a-941e-4b73-ac85-e3376ce2acae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='[prikaži]'])[1]/following::td[1]</value>
+      <webElementGuid>eae50301-ecff-4236-a46a-cda40b244ae4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brezočnik Lucija'])[1]/following::td[2]</value>
+      <webElementGuid>cb87b1e5-7432-428a-bd61-07b2d7e003dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='G2-1N.11'])[1]/preceding::td[1]</value>
+      <webElementGuid>ab63be52-8cbf-4f7c-8324-90ba41ecc13a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gril Lucija'])[1]/preceding::td[2]</value>
+      <webElementGuid>dc86dc71-3145-45bb-b554-73185b2233e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='+386 (2) 22 07 385']/parent::*</value>
+      <webElementGuid>3f8e4bf6-57e2-4770-ac98-22f7180f85e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>0ec5b751-aea5-4c10-b1e9-3909ee7f8c91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '+386 (2) 22 07 385' or . = '+386 (2) 22 07 385')]</value>
+      <webElementGuid>3d4110b7-1dcf-4150-b270-2ba261b29684</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
